@@ -1,0 +1,52 @@
+{
+    "users": [
+      {
+        "userName": "john_doe",
+        "email": "john.doe@example.com",
+        "password": "john.doe@example.com",
+        "id": 1
+      },
+      {
+        "userName": "Hager",
+        "email": "hm658216@gmail.com",
+        "password": "Warda@987654321",
+        "id": 2
+      },
+      {
+        "userName": "Karim",
+        "email": "karim234@gmail.com",
+        "password": "0294756221",
+        "id": 3
+      },
+      {
+        "userName": "mmmm",
+        "email": "kkk45@gmail.com",
+        "password": "09837465",
+        "id": 4
+      },
+      {
+        "userName": "soso",
+        "email": "soso34@gmial.com",
+        "password": "sdf8394657",
+        "id": 5
+      },
+      {
+        "userName": "hagga",
+        "email": "kajshs12@gmial.com",
+        "password": "987654321",
+        "id": 6
+      },
+      {
+        "userName": "koky",
+        "email": "kojsh23@gmial.com",
+        "password": "12387652",
+        "id": 7
+      },
+      {
+        "userName": "baby",
+        "email": "obobo@gmail.com",
+        "password": "91174841013847",
+        "id": 8
+      }
+    ]
+  }
